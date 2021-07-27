@@ -1,10 +1,10 @@
 # README
 
-#＃ Development Language
+## Development Language
 - Ruby 2.6.5
 - Rails 5.2.5
 
-#＃ Employment Term Technology
+## Employment Term Technology
 - AWS EC2
 - devise
 
