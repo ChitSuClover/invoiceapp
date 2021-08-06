@@ -14,6 +14,7 @@ Invoice generator for overseas employment agency. Can register your own company 
   - Can delete invoice
 - New Invoice create function
   - Can create invoice by worker group and request period
+  - Can send invoice pdf mail to client 
 - Invoice edit function
 - Client list display function  
   - Show the client registered
