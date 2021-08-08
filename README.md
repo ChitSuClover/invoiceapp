@@ -14,7 +14,7 @@ Invoice generator for overseas employment agency. Can register your own company 
   - Can delete invoice
 - New Invoice create function
   - Can create invoice by worker group and request period
-  - Can send invoice pdf mail to client 
+  - Can send invoice pdf mail to client
 - Invoice edit function
 - Client list display function  
   - Show the client registered
@@ -67,4 +67,4 @@ rails s
 (https://drive.google.com/file/d/1Jf4zVh7_L_5sePkjvlH4NdtOzQETya8t/view?usp=sharing)
 
 ### Wireframe
-(https://cacoo.com/diagrams/cwrsanNz99Gi7Owb/83CAA)
+(https://cacoo.com/diagrams/cwrsanNz99Gi7Owb/B6FE2)
